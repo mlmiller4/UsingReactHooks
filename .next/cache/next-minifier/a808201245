@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{\"61n4\":function(n,e,o){\"use strict\";o.r(e);var t=o(\"q1tI\"),a=o.n(t),c=o(\"vpQ9\"),p=a.a.createElement;e.default=function(){return p(c.a,{pageName:\"Speakers\"})}},b9co:function(n,e,o){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/speakers\",function(){return o(\"61n4\")}])}},[[\"b9co\",1,2,0,3,4]]]);"}

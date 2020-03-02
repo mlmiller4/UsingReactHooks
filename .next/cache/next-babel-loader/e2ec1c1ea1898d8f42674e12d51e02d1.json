@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport App from '../src/App';\n\nfunction speakers() {\n  return __jsx(App, {\n    pageName: \"Speakers\"\n  });\n}\n\nexport default speakers;","map":null,"metadata":{},"sourceType":"module"}
